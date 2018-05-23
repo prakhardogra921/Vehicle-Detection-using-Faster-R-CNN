@@ -1,6 +1,4 @@
-Author: Prakhar Dogra and Yogen Chaudhari
-G Number: G01009586 and G01032669
-CS 682 Project
+Author: Prakhar Dogra
 
 The following README gives details about the dataset and the files contained in this folder:
 
