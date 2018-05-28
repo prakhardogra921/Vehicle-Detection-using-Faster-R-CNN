@@ -33,7 +33,7 @@ The following README gives details about the dataset and the files contained in 
 3. Output
 	This folder contains the two sub-folders of each respective method implemented:
 	a. sample_resnet_results:  Contains 20 sample images that were obtained when ResNet architecture was used.
-	b. sample_vgg_results:  Contains 20 sample images that were obtained when ResNet architecture was used.
+	b. sample_vgg_results:  Contains 20 sample images that were obtained when VGG architecture was used.
 
 4. Report and PPT
 	This folder contains the Report and Presentation of the Project.
